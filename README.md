@@ -2,6 +2,10 @@
 
 This repository contains the SurVis literature browser developed for the literature review coursework of COMP4037 Research Methods.
 
+## SurVis Screenshot
+
+![SurVis Screenshot](Survis.png)
+
 ## Research Topic
 
 AI-driven Optimization Techniques in Smart Hospitality Management
